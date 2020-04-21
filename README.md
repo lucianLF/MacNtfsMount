@@ -3,3 +3,4 @@
 ``` shell
 sudo ./execute.sh
 ```
+![](https://github.com/lucianLF/MacNtfsMount/blob/master/runScreenshot.png?raw=true)
